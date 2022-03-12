@@ -45,8 +45,6 @@ $ npm run build
 
 Runs your test suite(s) (`/tests/**`) against your source code (`/src/**`).<br>Doing so allows for accurate code coverage.
 
-> **Note:** Coverage is only collected and reported through the "CI" Github Action (`.github/workflows/ci.yml`).
-
 ```sh
 $ npm test
 ```
